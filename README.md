@@ -129,4 +129,9 @@ This project demonstrates the practical use of Power BI in healthcare analytics 
 - Data Analysis
 
 ---
+13. 🔗 Live Dashboard Link
+
+Click below to view the interactive Power BI Dashboard:
+
+[View Heart Disease Power BI Dashboard](https://app.powerbi.com/groups/me/reports/64870a56-9da3-4e3d-8e35-9301b366d59f/e606fc1e95baa0bce6d4?experience=power-bi)
 
