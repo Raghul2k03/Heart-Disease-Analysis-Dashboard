@@ -11,11 +11,11 @@ This dashboard converts raw healthcare data into interactive visual insights tha
  2. Project Objective
 The main goals of this project are:
 
-1. To analyze heart disease patient data efficiently  
-2. To monitor survival and death statistics  
-3. To identify high-risk health conditions  
-4. To compare survival rates across age groups  
-5. To create an interactive healthcare analytics dashboard  
+. To analyze heart disease patient data efficiently  
+. To monitor survival and death statistics  
+. To identify high-risk health conditions  
+. To compare survival rates across age groups  
+. To create an interactive healthcare analytics dashboard  
 
 ---
 
